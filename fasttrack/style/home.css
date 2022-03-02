@@ -1,0 +1,76 @@
+#headerbootstrap{
+    
+    background-color: #222222;
+    margin-left: 100px;
+    margin-right: 100px;
+   font-family:Work Sans;
+   font-size: 10PX;
+   font-weight: 700;
+   color: #a8a8a8;
+
+}
+header{
+   background-color: #222222;
+}
+
+#navItemHeader{
+   font-family:Work Sans;
+   font-size: 10PX;
+   font-weight: 700;
+   color: #a8a8a8;
+}
+.secondheader{
+   
+display: flex;
+}
+.SndHI{
+   color: aliceblue;
+   text-align: center;
+   width: 150px;
+   border-radius: 2px;
+}
+
+
+.fastrackessentials{
+    height: 450px;
+    
+    padding-top: 40px;
+    
+
+}
+
+.main_boddy{
+width: 100%;
+}
+
+
+
+.FSWC{
+    display: flex;
+    
+    height: 300px;
+    width: 100%;
+    margin: 50px;
+}
+.fSC{
+    height:100%;
+    width: 18%;
+    
+    
+}
+.fSC  img{
+    height: 85%;
+}
+.fSC h5{
+    height: 15%;
+    text-align: center;
+}
+.row{
+    font-family: "Roboto",sans-serif;
+    color: #222;
+    font-size: 12px;
+    
+}
+.image{
+    background: url(fooder.jpg);
+}

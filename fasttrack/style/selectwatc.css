@@ -1,0 +1,168 @@
+
+
+/* main----------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+.main-wrapper{
+    padding: 30px;
+    background-color:  #f4f4f4 ;
+}
+
+.navigation-content{
+    padding-bottom: 20px;
+}
+
+.content-wrapper{
+    display: flex;
+}
+.sidebar-wrapper{
+    padding: 20px;
+    background-color: white;
+    width: 300px;
+    margin-right: 20px;
+}
+
+hr{
+    color: #8c8585;
+}
+.watch-wrapper{
+    padding: 5px;
+    background-color: white;
+    width: 100%;
+}
+
+.watch-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin-bottom: 2px;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", sans-serif; 
+    font-size: 20px;
+    color: #222222;
+    line-height: 30px;
+    font-weight: 400;
+}
+.watch-product{
+    width: 100%;
+    background-color: white;
+    display: flex;
+}
+
+.sPSP{
+    width: 25%;
+    height: 300px;
+    padding: 10px;  
+}
+
+.sPSP > div{
+    text-align: center
+}
+
+div > img{
+    height: 250px;
+}
+
+.sorting-parent{
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+.sorting-parent > select{
+    border: transparent;
+    padding-bottom: 9px;
+}
+
+.sorting-parent > select > option{
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 20px;
+    color: #666666;
+}
+
+.sC1 > ul > li > a{
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    color: #999999;
+    line-height: 21px;
+}
+
+.navigation-content >span > a{
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 21px;
+    color: #666666;
+}
+
+.sidebar-content > hr{
+    color: #f4f4f4;
+}
+
+.sP-Select{
+    padding: 5px;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 20px;
+    color: #666666;   
+}
+
+#four_in_row > div{
+    height: 60%;
+    width: 3px;
+    margin-top: 4px;
+}
+.hov_er:hover{
+    cursor: pointer;
+}
+#sMImages{
+    padding-top: 30px;
+    
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 20px;
+    text-decoration: none;
+    font-family: "Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", sans-serif";
+    font-weight: 300;
+    font-size: 15px;
+    line-height: 18px;
+    color: #666666;
+}
+#sMImages .img1{
+    height: 70%;
+    width: 70%;
+    margin: auto;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+#sMImages img{
+   
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+.sMIPrice{
+    
+    text-decoration: none;
+    font-family: "Roboto, -apple-system, BlinkMacSystemFont, "Helvetica Neue", "Segoe UI", sans-serif";
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #222222;
+   
+}
+.sMIName{
+    width: 100%;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 12px;
+    color: #181818;
+    text-align: center;
+}

@@ -1,0 +1,12 @@
+.main-wrapper{
+    padding: 30px;
+    background-color:  #f4f4f4 ;
+}
+
+.navigation-content{
+    padding-bottom: 20px;
+}
+
+.content-wrapper{
+    display: flex;
+}
