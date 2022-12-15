@@ -19,7 +19,7 @@ console.log(arr)
       
       cartItems.push(arr[0]);
       localStorage.setItem("cart", JSON.stringify(cartItems))
-      window.location.href = "./cart.html";
+      window.location.href = "./CART.HTML";
     }
 
 
